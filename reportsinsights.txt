@@ -1,0 +1,9 @@
+1. Overall churn rate is 26.54%.
+
+2. Month-to-month contract customers have the highest churn.
+
+3. Customers using Fiber Optic internet show higher churn rates.
+
+4. Churned customers have higher average monthly charges.
+
+5. Customers with lower tenure are more likely to churn.
