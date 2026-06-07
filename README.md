@@ -1,5 +1,5 @@
 # 📊 Telco Customer Churn Analysis Dashboard
-![dashboard](powerbi%dashboard.png)
+![dashboard](powerbidashboard.png)
 Overview
 
 This project analyzes telecom customer churn behavior using SQL and Power BI. The objective is to identify customer retention patterns and factors contributing to customer churn.
